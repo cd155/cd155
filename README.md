@@ -43,7 +43,5 @@ Your AI prompts, kept in one library: a [Chrome extension](https://chromewebstor
 
 - [blind-75-python](https://github.com/cd155/blind-75-python): Blind 75 solutions in Python
 - Templates for interview practice: [Blind 75](https://github.com/cd155/blind-75-python-template) · [LeetCode 75](https://github.com/cd155/leetcode-75-python-template) · [NeetCode 150](https://github.com/cd155/neetcode-150-python-template) · [NeetCode 250](https://github.com/cd155/neetcode-250-python-template)
-- [ai-assisted-coding-interview](https://github.com/cd155/ai-assisted-coding-interview): templates for practising coding interviews with AI help
-- [Collins_Vocabulary](https://github.com/cd155/Collins_Vocabulary): Collins English Dictionary words, sorted by 1–5 stars
 
 <!-- Optional: contact line, e.g. 📫 dev@softifacts.com · LinkedIn -->
