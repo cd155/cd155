@@ -44,4 +44,4 @@ Your AI prompts, kept in one library: a [Chrome extension](https://chromewebstor
 - [blind-75-python](https://github.com/cd155/blind-75-python): Blind 75 solutions in Python
 - Templates for interview practice: [Blind 75](https://github.com/cd155/blind-75-python-template) · [LeetCode 75](https://github.com/cd155/leetcode-75-python-template) · [NeetCode 150](https://github.com/cd155/neetcode-150-python-template) · [NeetCode 250](https://github.com/cd155/neetcode-250-python-template)
 
-📫 [LinkedIn](https://www.linkedin.com/in/dcengr/)
+📫 [LinkedIn](https://www.linkedin.com/in/dcengr/) · dev@softifacts.com
