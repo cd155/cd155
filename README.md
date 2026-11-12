@@ -43,6 +43,5 @@ Your AI prompts, kept in one library: a [Chrome extension](https://chromewebstor
 
 - [dotnet-nextjs-starter](https://github.com/cd155/dotnet-nextjs-starter): a full-stack starter with a .NET 10 API, a Blazor admin CMS, an MCP server with OAuth sign-in, and a Next.js web app, run with Docker Compose
 - [collins-vocabulary](https://github.com/cd155/collins-vocabulary): Collins star vocabulary (柯林斯星级词汇), 13,633 English words by 1–5 star level with phonetic and Chinese definitions, as TXT, CSV, JSON and Anki decks, with a [web page](https://cd155.github.io/collins-vocabulary/) to browse them
-- Templates for interview practice: [LeetCode 75](https://github.com/cd155/leetcode-75-python-template) · [NeetCode 150](https://github.com/cd155/neetcode-150-python-template) · [NeetCode 250](https://github.com/cd155/neetcode-250-python-template)
 
 📫 [LinkedIn](https://www.linkedin.com/in/dcengr/) · dev@softifacts.com
