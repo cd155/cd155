@@ -35,9 +35,19 @@ Your AI prompts, kept in one library: a [Chrome extension](https://chromewebstor
 
 ---
 
+### ⛰️ [Halfway Pavilion (半山亭)](https://halfwaypavilion.com)
+
+A focus timer dressed as a cozy game. You pack a small item for your companion, Momo, and start a timer. While you work, Momo travels and rests at a mountain pavilion beside other people's companions. When the timer ends, Momo comes home with a gift, and your break begins.
+
+- **Web:** Vite + React + TypeScript, with a pixel-art scene drawn in PixiJS
+- **Live pavilion:** SignalR shows who is resting there right now
+- **API + admin CMS:** .NET 10, Blazor Server, EF Core + PostgreSQL, with guest accounts created on the first visit
+
+---
+
 ### 🛠️ Tech I use
 
-`C#` `.NET 10` `ASP.NET Core` `Blazor` `EF Core` `PostgreSQL` `TypeScript` `Next.js` `React` `Python` `Docker` `GitHub Actions` `Caddy` `MCP`
+`C#` `.NET 10` `ASP.NET Core` `Blazor` `EF Core` `PostgreSQL` `TypeScript` `Next.js` `React` `Vite` `PixiJS` `SignalR` `Python` `Docker` `GitHub Actions` `Caddy` `MCP`
 
 ### 📚 Open source
 
