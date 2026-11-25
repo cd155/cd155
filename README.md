@@ -4,7 +4,7 @@ I'm a solo developer who builds and runs full-stack products: .NET on the server
 
 ---
 
-### 📈 [QuantNote](https://quantnote.app)
+### 📈 [QuantNote (宽笺)](https://quantnote.app)
 
 A stock research platform for investors: analyst reports and notes, investment themes, a public model portfolio, and your own portfolio and watchlist checked against what the analysts think.
 
@@ -23,7 +23,7 @@ A stock research platform for investors: analyst reports and notes, investment t
 
 ---
 
-### 🧩 [Softifacts](https://softifacts.com)
+### 🧩 [Softifacts (词锦囊)](https://softifacts.com)
 
 Your AI prompts, kept in one library: a [Chrome extension](https://chromewebstore.google.com/detail/bjbpbpghnaoempbfefglofbhkodigojh) that saves prompts and inserts them on chat sites, plus a web dashboard to edit them.
 
