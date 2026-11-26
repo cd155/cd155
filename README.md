@@ -4,7 +4,7 @@ I'm a solo developer who builds and runs full-stack products: .NET on the server
 
 ---
 
-### 📈 [QuantNote (宽笺)](https://quantnote.app)
+### 📈 [QuantNote (估量有数)](https://quantnote.app)
 
 A stock research platform for investors: analyst reports and notes, investment themes, a public model portfolio, and your own portfolio and watchlist checked against what the analysts think.
 
